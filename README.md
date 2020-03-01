@@ -1,5 +1,8 @@
 # Cameradar
 
+[![Run on Repl.it](https://repl.it/badge/github/Ullaakut/cameradar)](https://repl.it/github/Ullaakut/cameradar)
+
+
 <p align="center">
     <img src="images/Cameradar.gif" width="100%"/>
 </p>
